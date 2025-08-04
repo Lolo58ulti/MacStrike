@@ -21,8 +21,9 @@ Thanks for your Understanding.
 ```
 Or
 
-[MacPort Official Website](https://www.macports.org/install.php)
+[MacPort (Official Website)](https://www.macports.org/install.php)
 
+______________________________
 [KegWorks Winery](https://github.com/Kegworks-App/Kegworks)
 
 ```bash
@@ -34,7 +35,7 @@ Or
 ```bash
 sudo port install kegworks
 ```
-
+________________________________
 [Samba (For NTLM_auth)](https://www.samba.org)
 
 Homebrew (recommanded)
@@ -50,4 +51,18 @@ MacPort (not recommanded)
 ```bash
 sudo port install samba
 ```
+_________________________________
+[BloodStrike From their official website](https://www.blood-strike.com)
 
+Go to "Developpment tab" -> User Agent and select "Microsoft Edge - Windows"
+
+Then Select "Download on Windows"
+__________________________________
+
+## Instruction
+
+Open KegWorks Winery
+
+<img width="516" height="600" alt="Capture d’écran 2025-08-04 à 22 51 50" src="https://github.com/user-attachments/assets/0ffa5a9c-413d-4d39-a0d9-791806a50729" />
+
+Tap the + Icon and Select 
