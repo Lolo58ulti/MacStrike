@@ -19,7 +19,7 @@ Thanks for your Understanding.
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-or
+Or
 
 [MacPort Official Website](https://www.macports.org/install.php)
 
@@ -33,5 +33,21 @@ Or
 
 ```bash
 sudo port install kegworks
-``
+```
+
+[Samba (For NTLM_auth)](https://www.samba.org)
+
+Homebrew (recommanded)
+
+```bash
+brew install samba && brew link samba && rm /usr/local/bin/samba_dot_org_smbd && rm /usr/local/bin/winbindd
+```
+
+Or
+
+MacPort (not recommanded)
+
+```bash
+sudo port install samba
+```
 
