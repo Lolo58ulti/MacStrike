@@ -65,4 +65,4 @@ Open KegWorks Winery
 
 <img width="516" height="600" alt="Capture d’écran 2025-08-04 à 22 51 50" src="https://github.com/user-attachments/assets/0ffa5a9c-413d-4d39-a0d9-791806a50729" />
 
-Tap the + Icon and Select 
+Tap the + Icon and Select "WS11Wine10.0_1"
