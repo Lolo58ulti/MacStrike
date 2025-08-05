@@ -10,6 +10,8 @@ This project is not related to any mentioned software companies
 For wine related issues, please refer to [WineHQ](winehq.org),
 
 And for KegWorks related issues, please refer to [KegWorks](https://github.com/Kegworks-App/Kegworks).
+
+This project is only for Intel Macs (for now) I will try to update it as soon as possible to include M-Series macs
  
 Thanks for your Understanding.
 
