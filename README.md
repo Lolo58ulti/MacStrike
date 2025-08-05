@@ -160,8 +160,82 @@ And
 
 Then in your wrapper config Go to "Tools" Tab and open Config Utility
 
-<img width="522" height="586" alt="Capture d’écran 2025-08-05 à 12 17 03" src="https://github.com/user-attachments/assets/5797e9a6-7f3f-47ad-8700-a059e7aca3d7" />
+<img width="522" height="586" alt="Capture d’écran 2025-08-05 à 14 43 25" src="https://github.com/user-attachments/assets/03bf8ad1-97ee-4370-9691-0b32b7e1c26b" />
 
 Go to "Libraries" Put in "New replacement for :"
 
 "wmdrmsdk" and Set it on native
+
+Apply and close.
+
+_____________________________________
+
+## Install the game
+
+Copy Bloodstrike's installer anywhere in
+
+```bash
+/Users/"YourName"/applications/Kegworks/"WrapperName"/SharedSupport/prefix/drive_c/Users/Kegworks
+```
+
+<img width="1304" height="697" alt="Capture d’écran 2025-08-05 à 14 45 10" src="https://github.com/user-attachments/assets/c389459e-eade-4371-b627-08229388a6af" />
+
+In Open Control Panel from the tool tab and go in "Add/remove Programs"
+
+<img width="568" height="524" alt="Capture d’écran 2025-08-05 à 14 47 02" src="https://github.com/user-attachments/assets/8fe7afc0-190a-446c-beb8-346cf5d2e34c" />
+
+Tap Install at the Top Right
+
+And select the installer.
+
+Then you'll likely to be prompted to install gecko, install it then accept the EULA.
+
+Follows Bloodstrike installation process.
+
+When it installed close any wine windows and go to the "Configuration" tab of KegworksConfig
+
+<img width="753" height="437" alt="Capture d’écran 2025-08-05 à 14 54 13" src="https://github.com/user-attachments/assets/ee398932-f76e-4a72-81d7-221b47fa258d" />
+
+Tap "Browse at the Top-Right and go to:
+
+```bash
+/Users/"YourName"/applications/Kegworks/"WrapperName"/SharedSupport/prefix/drive_c/Program Files (x86)/bloodstrike/
+```
+
+Then select "launcher.exe".
+
+Tap Test run on the Bottom-Right and let it continue the installation process.
+
+Refuse if you're prompted to install Gecko a second time.
+
+Select your login method and login normally. 
+
+(When safari shows up be sure to uncheck temporarily "Warn when visiting a website using HTTP" in safari settings under the "Security" tab or it will block the login process feel free to re-enable it after logging-in)
+
+Accept the Terms And Conditions.
+
+Close the app, tap no on the log popup, close KegworksConfig.
+
+Start the Game from Launchpad and it should be good to go.
+
+_______________________________
+
+## Bonus
+
+If you want to make it look better,
+
+Simply download the [icon of the game](https://cdn.moogold.com/2023/11/blood-strike.jpg)
+
+Go to the Wrapper's .app
+
+```bash
+/Users/"YourName"/applications/kegworks/
+```
+
+Right-click it and tap "Get Info"
+
+<img width="343" height="922" alt="Capture d’écran 2025-08-05 à 15 13 29" src="https://github.com/user-attachments/assets/dbad0a5d-7207-4777-ae91-eb2d10769130" />
+
+Drag and Drop the jpg file onto the app icon on the Top-Left
+
+(And if not done already you can name it as exemple "BloodStrike" For easier recognition).
