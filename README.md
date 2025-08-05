@@ -75,7 +75,7 @@ Select "WS11Wine10.0_1" and Press "Update Wrapper" then "Create New Blank Wrappe
 
 Name It whatever you want and press Ok.
 
-One it's done go to launchpad and open the wrapper.
+Once it's done go to launchpad and open the wrapper.
 
 <img width="753" height="437" alt="Capture d’écran 2025-08-05 à 11 56 31" src="https://github.com/user-attachments/assets/59ba33fc-9d19-4a65-ae1b-6a9f683c49f3" />
 
