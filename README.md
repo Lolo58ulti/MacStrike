@@ -224,7 +224,7 @@ _______________________________
 
 ## Bonus
 
-If you want to make it look better,
+If you want to make it look like the actual app,
 
 Simply download the [icon of the game](https://cdn.moogold.com/2023/11/blood-strike.jpg)
 
