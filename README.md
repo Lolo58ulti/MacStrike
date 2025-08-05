@@ -65,4 +65,50 @@ Open KegWorks Winery
 
 <img width="516" height="600" alt="Capture d’écran 2025-08-04 à 22 51 50" src="https://github.com/user-attachments/assets/0ffa5a9c-413d-4d39-a0d9-791806a50729" />
 
-Tap the + Icon and Select "WS11Wine10.0_1"
+Tap the + Icon and Select "WS11Wine10.0_1" then press "Download and Install"
+
+Select "WS11Wine10.0_1" and Press "Update Wrapper" then "Create New Blank Wrapper"
+
+<img width="410" height="337" alt="Capture d’écran 2025-08-05 à 11 50 54" src="https://github.com/user-attachments/assets/233accfc-8017-4f9e-808c-0b3fed48d5a4" />
+
+Name It whatever you want and press Ok.
+
+One it's done go to launchpad and open the wrapper.
+
+<img width="753" height="437" alt="Capture d’écran 2025-08-05 à 11 56 31" src="https://github.com/user-attachments/assets/59ba33fc-9d19-4a65-ae1b-6a9f683c49f3" />
+
+### For DXVK (DirectX to Vulkan)
+
+Check "DirectX to Vulkan translation layer - (DXVK)"
+
+Go to the "Advenced tab"
+
+<img width="753" height="437" alt="Capture d’écran 2025-08-05 à 11 58 20" src="https://github.com/user-attachments/assets/bffc1d2b-2289-4381-991f-7ae72d78c5c5" />
+
+Check MoltenVK - (CodeWeavers version) and MolenVK FastMath.
+
+### For Native Wine DX interpreter
+
+<img width="797" height="481" alt="Capture d’écran 2025-08-05 à 12 03 00" src="https://github.com/user-attachments/assets/3680c839-4247-4365-8f8f-91a0fd47c111" />
+
+Go to the "Advanced" tab and check MoltenVK - (CodeWeavers Version) And MoltenVK FastMath
+
+### For DXMT (DirectX to Metal)
+
+Download DXMT's DLLs from their [official github releases](https://github.com/3Shain/dxmt)
+
+<img width="988" height="504" alt="Capture d’écran 2025-08-05 à 12 06 39" src="https://github.com/user-attachments/assets/76b43303-686c-43b2-8b5e-34736ecf2bbf" />
+
+Extract It and Open "x86_64-windows"
+
+Copy the DLLs into wine at
+
+```bash
+/Users/"YourName"/Applications/Kegworks/"Wrappername.app"/Content/SharedSupport/prefix/drive_c/windows/system32
+```
+
+And
+
+```bash
+/Users/"YourName"/Applications/Kegworks/"Wrappername.app"/Content/SharedSupport/prefix/drive_c/windows/syswow64
+```
