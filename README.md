@@ -194,7 +194,7 @@ Then you'll likely to be prompted to install gecko, install it then accept the E
 
 Follows Bloodstrike installation process.
 
-When it installed close any wine windows and go to the "Configuration" tab of KegworksConfig
+When it installed close every wine windows and go to the "Configuration" tab of KegworksConfig
 
 <img width="753" height="437" alt="Capture d’écran 2025-08-05 à 14 54 13" src="https://github.com/user-attachments/assets/ee398932-f76e-4a72-81d7-221b47fa258d" />
 
