@@ -182,7 +182,7 @@ Copy Bloodstrike's installer anywhere in
 
 <img width="1304" height="697" alt="Capture d’écran 2025-08-05 à 14 45 10" src="https://github.com/user-attachments/assets/c389459e-eade-4371-b627-08229388a6af" />
 
-In Open Control Panel from the tool tab and go in "Add/remove Programs"
+In KegworksConfig go to the "Tools" tab open Control Panel and double tap "Add/remove Programs"
 
 <img width="568" height="524" alt="Capture d’écran 2025-08-05 à 14 47 02" src="https://github.com/user-attachments/assets/8fe7afc0-190a-446c-beb8-346cf5d2e34c" />
 
