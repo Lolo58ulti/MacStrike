@@ -212,7 +212,7 @@ Refuse if you're prompted to install Gecko a second time.
 
 Select your login method and login normally. 
 
-(When safari shows up be sure to uncheck temporarily "Warn when visiting a website using HTTP" in safari settings under the "Security" tab or it will block the login process feel free to re-enable it after logging-in)
+**(When safari shows up be sure to uncheck temporarily "Warn when visiting a website using HTTP" in safari settings under the "Security" tab or it will block the login process feel free to re-enable it after logging-in)**
 
 Accept the Terms And Conditions.
 
