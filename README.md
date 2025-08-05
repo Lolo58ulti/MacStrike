@@ -109,7 +109,7 @@ Download DXMT's DLLs from their [official github releases](https://github.com/3S
 
 Extract It and Open "x86_64-windows"
 
-Copy the DLLs into wine at
+Copy the DLLs into wine's system folders at
 
 ```bash
 /Users/"YourName"/Applications/Kegworks/"Wrappername.app"/Content/SharedSupport/prefix/drive_c/windows/system32
