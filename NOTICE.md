@@ -12,7 +12,7 @@ I (Lolo58ulti) am not responsible for any damage or data loss caused to your dev
 
 This project is not related to any mentioned software or companies. All trademarks and copyrighted content belong to their respective owners and are only used under fair use for identification purposes only.
 
-This project is protected by the licence CC-BY-NC (see LICENSE for more details)
+This project falls under the license CC BY-NC 4.0 (see LICENSE for more details)
 
 Do not report any issues to NetEase Games.
 
