@@ -1,19 +1,18 @@
 # Disclaimer
-I cannot guaranty that it will work on your system. This is **HIGHLY experimental** and may even cause your computer to crash. 
 
-I am not responsible for any damage or data loss caused to your device as result of following this guide. Use at your own risk.
+This is a non-commercial project and does not involve any distribution of copyrighted software
 
-This project is not related to any mentioned software/companies
+I cannot guarantee that it will work on your system. This is HIGHLY experimental and may even cause your computer to crash.
 
-**Do not report any issues to [NetEase Games](https://www.neteasegames.com)**
- 
-For wine related issues, please refer to [WineHQ](winehq.org),
+I (Lolo58ulti) am not responsible for any damage or data loss caused to your device as a result of following this guide. Use at your own risk.
 
-And for KegWorks related issues, please refer to [KegWorks](https://github.com/Kegworks-App/Kegworks).
+This project is not related to any mentioned software or companies. All trademarks and copyrighted content belong to their respective owners and are only used under fair use for identification purposes only.
 
-This project is only for Intel Macs (for now) I will try to update it as soon as possible to include M-Series macs
- 
-Thanks for your Understanding.
+Do not report any issues to NetEase Games.
+
+For Wine-related issues, please refer to WineHQ.
+
+For KegWorks-related issues, please refer to KegWorks.
 
 ## Requirements
 [Homebrew](https://brew.sh) (recommanded for further steps)
