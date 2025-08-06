@@ -19,7 +19,7 @@ And for KegWorks related issues, please refer to KegWorks.
 
 **1. BloodStrike**
 
-- The Term "NetEase Games" represents the Entity owned by "Hong Kong NetEase Interactive Entertainment Limited."
+- The Term "NetEase Games" represents the Entity owned by "Hong Kong NetEase Interactive Entertainment Limited. headquartered in Sheung Wan, Hong Kong"
 - The Term "BloodStrike" represents the Registered Trademark and Service owned by NetEase Games
 - The Term "Game" Represents the Entertainment service offered by "Hong Kong NetEase Interactive Entertainment Limited."
 - The Term "Project" Represents "MacStrike" an open-source project hosted on github made by the Author/Github User recognized as "Lolo58ulti" (also represented by the Term "I")
@@ -48,7 +48,7 @@ This project is **NOT** affiliated to any mentioned companies under:
 - The Terms "Apple" and "Apple LLC" refer to "Apple LLC headquartered in Cupertino, California"
 - The Term "MacOS" defines the Service offered by "Apple LLC"
 - The Term "Metal" in the case of Apple LLC's proprietary Renderer is owned by Apple LLC
-- The Term "Intel" refer to the hardware offered by "Intel Corporation"
+- The Term "Intel" refer to the hardware offered by "Intel Corporation headquartered in Santa Clara, California"
 - The Terms "Microsoft" represent "Microsoft Corporation based at Redmond, Washington"
 
 .
