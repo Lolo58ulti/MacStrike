@@ -243,4 +243,4 @@ Drag and Drop the jpg file onto the app icon on the Top-Left
 
 (And if not done already you can name it as exemple "BloodStrike" For easier recognition).
 
-<img width="103" height="035" alt="by-nc" src="https://github.com/user-attachments/assets/f9f2121a-8e07-4610-98ba-e4f258eff13f" />
+[<img width="103" height="035" alt="by-nc" src="https://github.com/user-attachments/assets/f9f2121a-8e07-4610-98ba-e4f258eff13f" />](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
