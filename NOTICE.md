@@ -1,6 +1,8 @@
-# Disclaimer
+# Notice
 
 ---------------------------------
+
+**1. Disclaimer & License**
 
 This is a non-commercial project and does not involve any distribution of copyrighted software
 
@@ -10,6 +12,8 @@ I (Lolo58ulti) am not responsible for any damage or data loss caused to your dev
 
 This project is not related to any mentioned software or companies. All trademarks and copyrighted content belong to their respective owners and are only used under fair use for identification purposes only.
 
+This project is protected by the licence CC-BY-NC (see LICENSE for more details)
+
 Do not report any issues to NetEase Games.
 
 For Wine-related issues, please refer to WineHQ.
@@ -18,7 +22,7 @@ For KegWorks-related issues, please refer to KegWorks.
 
 ------------------------------------
 
-**1. BloodStrike**
+**2. BloodStrike**
 
 - The Term "NetEase Games" represents the Entity owned by "Hong Kong NetEase Interactive Entertainment Limited." headquartered in Sheung Wan, Hong Kong
 - The Term "BloodStrike" represents the Registered Trademark and Service owned by NetEase Games
@@ -42,7 +46,7 @@ I am not responsible for any other usages of the project by its users other than
 
 --------------------------------------
 
-**2. Others**
+**3. Others Companies**
 
 This project is **NOT** affiliated with any mentioned companies under:
 
@@ -64,7 +68,7 @@ DirectX is a registered trademark and service owned by Microsoft Corporation
 
 -----------------------------------------
 
-**3. Project Related**
+**4. Project Related**
 
 - The Term "You" represents the users of the project
 - The Term "Guide" represents the project
@@ -79,7 +83,7 @@ I am not responsible for any misuse of this project that violates NetEase Games'
 
 -------------------------------------------
 
-**4. Contacts**
+**5. Contacts**
 
 If you want to use this project commercially, request its removal, or contribute, please contact me directly at:
 
