@@ -72,9 +72,9 @@ The project as said is **HIGHLY** experimental, you are the responsible for any 
 
 I am not resposible for any potential bans on the game BloodStrike.
 
-For any uses of this project you'll need to credit me directly. the commercial usages are restricted, if you want to use this project for commercial usages, contact me directly.
+For any uses of this project you'll need to credit me directly. copmercial use is restricted, if you want to use this project for commercial usages, contact me directly.
 
-And I am not reponsible of any misusages that goes beyond NetEase Games' EULA.
+And I am not responsible of any misusages that goes beyond NetEase Games' EULA.
 
 -------------------------------------------
 
