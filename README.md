@@ -235,7 +235,7 @@ Go to the Wrapper's .app
 
 Right-click it and tap "Get Info"
 
-<img width="343" height="922" alt="Capture d’écran 2025-08-05 à 15 13 29" src="https://github.com/user-attachments/assets/dbad0a5d-7207-4777-ae91-eb2d10769130" />
+<img width="143" height="722" alt="Capture d’écran 2025-08-05 à 15 13 29" src="https://github.com/user-attachments/assets/dbad0a5d-7207-4777-ae91-eb2d10769130" />
 
 Drag and Drop the jpg file onto the app icon on the Top-Left
 
